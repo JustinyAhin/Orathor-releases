@@ -3,6 +3,22 @@
     <channel>
         <title>Orathor</title>
         <item>
+            <title>0.0.6</title>
+            <pubDate>Sun, 08 Mar 2026 15:44:40 +0800</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/JustinyAhin/Orathor-releases/main/releases/Orathor-0.0.6-6.zip" length="2018853" type="application/octet-stream" sparkle:edSignature="vLieeY5tUyIf9l3kWgKJXGzqaJJ7FZCFO55giBlz1jdR2MzuRYAJTRd5ZXHuhVLXSsTnSUGAQ8P2FqbrpNt2Cw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/JustinyAhin/Orathor-releases/main/releases/Orathor6-5.delta" sparkle:deltaFrom="5" length="142046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kMwc9IWegNrDTC9mk9uTb+5XR89i8XANBsjrHwU//xRhUmMpUIxZ5/Cu/g56Qfi65mHSV2nsQe/vUoypjmpBDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/JustinyAhin/Orathor-releases/main/releases/Orathor6-4.delta" sparkle:deltaFrom="4" length="153174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RyOcCGCsMdXRjyfOuQo9D9MIHfL3+7JijKn1BgfhwrUvxQIMoVCrekdwwbaD3EH+v9oLj5+fZp/dlaxoCI+JDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/JustinyAhin/Orathor-releases/main/releases/Orathor6-3.delta" sparkle:deltaFrom="3" length="213654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PNubKhpV4299Z/dPoyjWYi+ct1peNyrxHmOxbCFtShXym5svsshV3uahlnOI/UjxYt3b+vqin7p5PSRZ55qgAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/JustinyAhin/Orathor-releases/main/releases/Orathor6-2.delta" sparkle:deltaFrom="2" length="226066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wvwzh4sBeVzX6Hn805Edvrjv19BCW3LfLATZ6BiWxqwpT9DX28NBCoUDfntI+ozQgaeYqA/GN7yOmLkkPoogCw=="/>
+                <enclosure url="https://raw.githubusercontent.com/JustinyAhin/Orathor-releases/main/releases/Orathor6-1.delta" sparkle:deltaFrom="1" length="638338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oD/Ze2UNBCd/XFHU2D4Ln1u5MRYgIxKH1ry5Pawq33jEpc1YhcHdvFuBI/yEVtO0dt7f/P4lQB7E/uC11tDkCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.0.5</title>
             <pubDate>Sun, 08 Mar 2026 02:18:07 +0800</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -29,19 +45,6 @@
                 <enclosure url="https://raw.githubusercontent.com/JustinyAhin/Orathor-releases/main/releases/Orathor4-3.delta" sparkle:deltaFrom="3" length="162686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ell9KOV13GTvpGX3EfTZpBzJqu7scG5mjujKqOSzIsA59HHkNjgWWBLmu9rQsdVkzMEeJ3nwWga96Iq08gwEBQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/JustinyAhin/Orathor-releases/main/releases/Orathor4-2.delta" sparkle:deltaFrom="2" length="177682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0sX9TTUVKqWiSjrvZG2o+1nI+aP2v8jtnQs3HpTbVPhhci70W0j6xYEXCW2L+5nbvmWJ0yqScSOedXvyh8pGDA=="/>
                 <enclosure url="https://raw.githubusercontent.com/JustinyAhin/Orathor-releases/main/releases/Orathor4-1.delta" sparkle:deltaFrom="1" length="590914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tqq8+KyIuq1BkPNelR1QOaek8B0poP5NW/6WGGIXxKnQQMZ+dMUlVjOWyPxsEOoSRvULT3BIj6ecJDwqFRdHAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.0.3</title>
-            <pubDate>Sun, 08 Mar 2026 01:19:43 +0800</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/JustinyAhin/Orathor-releases/main/releases/Orathor-0.0.3-3.zip" length="1948001" type="application/octet-stream" sparkle:edSignature="q73ZG4OdrTdNINV62BIJBSAKCKz2tls4garn5rerhDGHAbdwbxam6/6SEK4gmTwOWtkDuz1QmGmcgN3aRUXYAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/JustinyAhin/Orathor-releases/main/Orathor3-2.delta" sparkle:deltaFrom="2" length="87490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EBhbfp2bEf66w4pu306jkrCokso9/Y1cHG00M8MVJxZB9klJlj/xDD7/RlwYuw2B8+OVA24D05oZmWI7ZAAvAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/JustinyAhin/Orathor-releases/main/Orathor3-1.delta" sparkle:deltaFrom="1" length="499570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lilTMXhLBmOUEUFjjOaq9q50NC92PPIdIfXY6fTJNFFZDp907gPoiU8+x3hY08MNsPOP0ndoYdNZ9t4L8NrgDg=="/>
             </sparkle:deltas>
         </item>
     </channel>
